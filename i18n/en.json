@@ -1,0 +1,91 @@
+{
+    "Cipher Files": "Cipher Files",
+    "Resolute Systems": "Resolute Systems",
+
+    "home": "home",
+    "tos": "tos",
+    "report abuse": "report abuse",
+    "faq": "faq",
+    "our community": "our community",
+
+    "Uploading your files": "Uploading your files",
+    "complete": "complete",
+    "Upload your files": "Upload your files",
+    "Maximum upload file size: <strong>1 GB</strong>": "Maximum upload file size: <strong>1 GB</strong>",
+    "Click to select files or drag and drop here": "Click to select files or drag and drop here",
+    "Wanna encrypt a file?": "Wanna encrypt a file?",
+
+    "Copied download url to clipboard!": "Copied download url to clipboard!",
+    "Copied delete url to clipboard!": "Copied delete url to clipboard!",
+
+    "404: Not Found": "404: Not Found",
+
+    "You can only upload one file at a time.": "You can only upload one file at a time.",
+    "Total files size exceeds the 1 GB limit. Please upload files smaller than 1 GB.": "Total files size exceeds the 1 GB limit. Please upload files smaller than 1 GB.",
+    "File uploaded": "File uploaded",
+    "Download link": "Download link",
+    "Delete link": "Delete link",
+
+    "Terms of Service": "Terms of Service",
+    "Because we are privacy-conscious and value sharing freedom, we aim for as few restrictions as possible:": "Because we are privacy-conscious and value sharing freedom, we aim for as few restrictions as possible:",
+    "Don't abuse service exploits, if you find any <a href=\"/report-abuse\">please report it.</a>": "Don't abuse service exploits, if you find any <a href=\"/report-abuse\">please report it.</a>",
+    "Uploading illegal or copyrighted content is forbidden.": "Uploading illegal or copyrighted content is forbidden.",
+
+    "Privacy Policy": "Privacy Policy",
+    "We do not collect data, use cookies, employ analytics, show ads, or maintain logs. All files uploaded to the service can be encrypted using an unbreakable cipher, and only you possess the decryption key.": "We do not collect data, use cookies, employ analytics, show ads, or maintain logs. All files uploaded to the service can be encrypted using an unbreakable cipher, and only you possess the decryption key.",
+
+    "Report Abuse": "Report Abuse",
+    "If you want to report illegal or copyrighted content, please email us at": "If you want to report illegal or copyrighted content, please email us at",
+    "Remember to include as much information as possible, including the full download URL (with decryption key) and a description of the content.": "Remember to include as much information as possible, including the full download URL (with decryption key) and a description of the content.",
+
+    "Why should I trust you?": "Why should I trust you?",
+    "You shouldn't! Any third party can be compromised, even the most trusted services can be honeypots or legally forced to spy on you and your data. You should always be careful about what you're uploading. <br/><b>Any personal data should be encrypted.</b>": "You shouldn't! Any third party can be compromised, even the most trusted services can be honeypots or legally forced to spy on you and your data. You should always be careful about what you're uploading. <br/><b>Any personal data should be encrypted.</b>",
+    "What makes you different from other file sharing services?": "What makes you different from other file sharing services?",
+    "What makes us different from other file sharing services is that we do not require you to create an account in order to use our service and we do not require you to disclose any personal information to us <br/>(i.e. your real name, email address, phone number, etc.).": "What makes us different from other file sharing services is that we do not require you to create an account in order to use our service and we do not require you to disclose any personal information to us <br/>(i.e. your real name, email address, phone number, etc.).",
+    "Who has the decryption key?": "Who has the decryption key?",
+    "Decryption key is given in the URL after uploading encrypted files. We don't store the key anywhere on our servers thus you need to take care of it because we can't recover it.": "Decryption key is given in the URL after uploading encrypted files. We don't store the key anywhere on our servers thus you need to take care of it because we can't recover it.",
+    "What data do you collect?": "What data do you collect?",
+    "We do not store any data about you nor how you use the service. You can read more at <a class=\"text-accent link\" href=\"/terms-of-service\">terms of service</a>. We also do not have any trackers, CAPTCHA spying, fingerprinting or ads on our website.": "We do not store any data about you nor how you use the service. You can read more at <a class=\"text-accent link\" href=\"/terms-of-service\">terms of service</a>. We also do not have any trackers, CAPTCHA spying, fingerprinting or ads on our website.",
+    "Someone uploaded illegal content": "Someone uploaded illegal content",
+    "If someone sent you a download link with illegal content, you are obligated to report it through <a class=\"text-accent link\" href=\"/report-abuse\">report abuse</a> form!": "If someone sent you a download link with illegal content, you are obligated to report it through <a class=\"text-accent link\" href=\"/report-abuse\">report abuse</a> form!",
+    "Why it takes so long to upload/download encrypted files?": "Why it takes so long to upload/download encrypted files?",
+    "The main reason behind this is encryption and decryption, which can take long time with large files. As well as limited server resources.": "The main reason behind this is encryption and decryption, which can take long time with large files. As well as limited server resources.",
+
+    "An error occurred while deleting the file.": "An error occurred while deleting the file.",
+    "Remove your files": "Remove your files",
+    "Upload ID": "Upload ID",
+    "Delete key": "Delete key",
+    "Confirm": "Confirm",
+    "Download": "Download",
+    "Deleting...": "Deleting...",
+
+    "Downloads": "Downloads",
+    "Download your files": "Download your files",
+
+    "Decryption Key": "Decryption Key",
+
+    "Successfully deleted": "Successfully deleted",
+    "Return to the home page": "Return to the home page",
+
+    "Would you like this file to expire?": "",
+    "Save this file in local history?": "",
+    "Expiry after": "Expiry after",
+    "Expires after": "Expires after",
+    "Expired": "Expired",
+    "Never expires": "Never expires",
+
+    "day": "day",
+    "days": "days",
+    "hour": "hour",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds",
+
+    "Upload": "Upload",
+    "downloads": "downloads",
+    "Go back!": "Go back!",
+    
+    "See history of your uploaded files": "See history of your uploaded files",
+    "Uploaded files": "Uploaded files",
+    "Used space": "Used space"
+}
